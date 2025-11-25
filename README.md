@@ -5,6 +5,8 @@
 
 פרויקט זה מדגים בנייה של אתר מלא לחנות בגדים תוך שימוש ב־**SASS** (או SCSS) בצורה מודרנית, מסודרת ונכונה.
 המטרה היא ללמוד לעבוד עם SASS בארכיטקטורה אמיתית של פרויקט ולראות כיצד ארגון נכון של קבצים משפר את היעילות, הקריאות והתחזוקה של הקוד
+
+ https://sass-w-clothing-store.more-ways.co.il/
  <img width="836" height="532" alt="image" src="https://github.com/user-attachments/assets/f509120f-2d07-4e52-a555-845f2ab62a9e" />
    <img width="851" height="547" alt="image" src="https://github.com/user-attachments/assets/a04d6be0-7c3b-4ddd-a242-62d6a4c209e6" />
 .
@@ -230,3 +232,4 @@ sass scss/main.scss css/main.css --watch
 
 ---
 ך
+
